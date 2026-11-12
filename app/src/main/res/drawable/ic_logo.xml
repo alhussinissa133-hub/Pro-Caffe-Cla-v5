@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Pro Caffe logo: coffee cup with steam on a dark roast background -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- background disc -->
+    <path
+        android:fillColor="#4E342E"
+        android:pathData="M54,54m-54,0a54,54 0,1 1,108 0a54,54 0,1 1,-108 0" />
+
+    <!-- steam -->
+    <path
+        android:strokeColor="#D7B98E"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M42,40 Q37,34 42,28 Q47,22 42,16" />
+    <path
+        android:strokeColor="#D7B98E"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M54,40 Q49,34 54,28 Q59,22 54,16" />
+    <path
+        android:strokeColor="#D7B98E"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M66,40 Q61,34 66,28 Q71,22 66,16" />
+
+    <!-- handle -->
+    <path
+        android:strokeColor="#F5E6D3"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:pathData="M78,52 Q93,52 92,62 Q91,72 76,70" />
+
+    <!-- cup body -->
+    <path
+        android:fillColor="#F5E6D3"
+        android:pathData="M28,46 L80,46 L80,60 Q80,80 60,80 L48,80 Q28,80 28,60 Z" />
+
+    <!-- coffee surface -->
+    <path
+        android:fillColor="#8D6E63"
+        android:pathData="M32,49 L76,49 L76,53 L32,53 Z" />
+
+    <!-- saucer -->
+    <path
+        android:fillColor="#D7B98E"
+        android:pathData="M22,85 L86,85 Q86,90 81,90 L27,90 Q22,90 22,85 Z" />
+</vector>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ProCaffe" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#3E2723</item>
+        <item name="android:statusBarColor">#3E2723</item>
+        <item name="android:navigationBarColor">#3E2723</item>
+    </style>
+</resources>
